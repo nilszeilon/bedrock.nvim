@@ -4,6 +4,10 @@ What is harder than obsidian in minecraft?
 
 [bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) is like [obsidian.md](https://obisidian.md) but for nvim.
 
+
+https://github.com/user-attachments/assets/7d1c2766-a8c4-42d4-a582-ff6a2cca1b8a
+
+
 ## Features
 
 1. Semantic search of your notes 🔍
