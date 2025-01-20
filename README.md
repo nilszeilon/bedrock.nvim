@@ -2,7 +2,12 @@
 
 What is harder than obsidian in minecraft?
 
-(bedrock.nvim)[https://github.com/nilszeilon/bedrock.nvim] is like (obsidian.md)[https://obisidian.md] but for nvim.
+[bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) is like [obsidian.md](https://obisidian.md) but for nvim.
+
+## Features
+
+1. Semantic search of your notes 🔍
+2. Linking between your notes 🔗
 
 ## Prerequisites
 
@@ -41,8 +46,3 @@ Using lazy.nvim
     end
 }
 ```
-
-## Features
-
-1. Semantic search of your notes 🔍
-2. Linking between your notes 🔗
