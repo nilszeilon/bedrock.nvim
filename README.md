@@ -1,6 +1,6 @@
 # bedrock.nvim
 
-What is harder than obsidian in minecraft?
+What is harder than obsidian?
 
 [bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) is like [obsidian.md](https://obisidian.md) but for nvim.
 
